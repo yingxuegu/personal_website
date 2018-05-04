@@ -79,6 +79,10 @@ $('[data-spy="scroll"]').each(function () {
   color: #00b0ff;
 }
 
+#name {
+  color: black;
+}
+
 .footer, .push {
   height: 100px; 
   text-align: center;
